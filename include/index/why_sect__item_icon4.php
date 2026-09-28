@@ -1,0 +1,1 @@
+<img src="<?= SITE_TEMPLATE_PATH ?>/img/icons/why-4.png" alt="">

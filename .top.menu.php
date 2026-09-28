@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"<span>Save</span>Energy", 
+		"/saveenergy/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Электрощитовое", 
+		"/electrical_panel/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О нас", 
+		"/about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Отзывы", 
+		"/reviews/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

@@ -1,0 +1,31 @@
+<?
+$aMenuLinks = array(
+    array(
+        "<span>Save</span>Energy",
+        "#",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "О нас",
+        "/about/",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "Отзывы",
+        "/reviews/",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "Контакты",
+        "/contacts/",
+        array(),
+        array(),
+        ""
+    ),
+);

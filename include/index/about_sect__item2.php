@@ -1,0 +1,1 @@
+<strong>15</strong><span>Крупных клиентов</span>
